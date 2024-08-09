@@ -3,11 +3,6 @@
 ### 🚀 About Me
 I’m a final-year B.Tech student specializing in Computer Science and Engineering with a passion for web development and software engineering. I enjoy building user-friendly web applications and exploring new technologies. My journey in the tech world started with front-end development, and I have since expanded my skills to include full-stack development, focusing on creating efficient and scalable solutions.
 
-### 🔭 What I’m Working On
-- **[CODEVY](#)**: Developing an innovative platform to provide coding education to beginners and enthusiasts.
-- **Personal Portfolio Website**: A responsive website to showcase my projects, skills, and professional journey.
-- **Continuous Learning**: Currently enhancing my skills in React.js and Node.js to deepen my understanding of modern web development.
-
 ### 🌱 What I’m Learning
 - **React.js**: Building dynamic and interactive UIs for web applications.
 - **Node.js**: Backend development and creating RESTful APIs.
