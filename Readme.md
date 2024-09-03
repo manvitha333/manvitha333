@@ -26,7 +26,8 @@ I’m a final-year B.Tech student specializing in Computer Science and Engineeri
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ManvithaReddy&layout=compact&theme=radical)
 
 ### 📫 How to Reach Me
-- **LinkedIn**: [Manvitha Reddy](www.linkedin.com/in/manvitha-reddy-5a12a8316)
+- **LinkedIn**: www.linkedin.com/in/manvithareddyarimanda
+- 
 - **Email**: [manvitha.reddy@example.com](mailto:a.manvitha333@gmail.com)
 
 ### ⚡ Fun Fact
