@@ -28,7 +28,7 @@ I’m a final-year B.Tech student specializing in Computer Science and Engineeri
 ### 📫 How to Reach Me
 - **LinkedIn**: www.linkedin.com/in/manvithareddyarimanda
 - 
-- **Email**: [manvitha.reddy@example.com](mailto:a.manvitha333@gmail.com)
+- **Email**:a.manvitha333@gmail.com
 
 ### ⚡ Fun Fact
 I’m always on the lookout for new challenges and love solving puzzles, whether they’re coding problems or logic games.
