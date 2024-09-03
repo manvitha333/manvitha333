@@ -5,8 +5,7 @@ I’m a final-year B.Tech student specializing in Computer Science and Engineeri
 
 ### 🌱 What I’m Learning
 - **React.js**: Building dynamic and interactive UIs for web applications.
-- **Node.js**: Backend development and creating RESTful APIs.
-- **Advanced JavaScript**: Mastering the intricacies of JavaScript for more efficient coding.
+
 
 ### 👯‍♀️ What I’m Looking to Collaborate On
 - Open source projects related to web development, especially in JavaScript frameworks.
@@ -28,7 +27,7 @@ I’m a final-year B.Tech student specializing in Computer Science and Engineeri
 
 ### 📫 How to Reach Me
 - **LinkedIn**: [Manvitha Reddy](https://www.linkedin.com/in/manvitha-reddy-xxxx)
-- **Email**: [manvitha.reddy@example.com](mailto:manvitha.reddy@example.com)
+- **Email**: [manvitha.reddy@example.com](mailto:a.manvitha333@gmail.com)
 
 ### ⚡ Fun Fact
 I’m always on the lookout for new challenges and love solving puzzles, whether they’re coding problems or logic games.
