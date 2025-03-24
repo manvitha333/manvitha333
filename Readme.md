@@ -7,7 +7,7 @@ I’m a final-year B.Tech student specializing in Computer Science and Engineeri
 - **Intern at Hanvitec Solutions**: Worked on developing and maintaining web applications, focusing on front-end development using HTML, CSS,Javascript,Reactjs
 ### 💻 Technologies & Tools
 - **Languages**: Reactjs, JavaScript, HTML, CSS, Python
-- **Frameworks**: Bootstrap, React.js (learning), Next.js (learning)
+- **Frameworks**: Bootstrap, React.js, Next.js ,ReactNative(learning),Redux(Learning)
 - **Tools**: Git, GitHub, VS Code, Figma
 
 ### 📊 GitHub Analytics
